@@ -77,10 +77,6 @@ strong{
     color: hsl(30, 10%, 34%);
 }
 
-.sub-heading{
-
-}
-
 /* layouts */
 .container{
     width: 60%;
@@ -91,6 +87,7 @@ strong{
     border-radius: 20px;
 }
 
+section,
 .section{
     padding: 10px 0;
 }
